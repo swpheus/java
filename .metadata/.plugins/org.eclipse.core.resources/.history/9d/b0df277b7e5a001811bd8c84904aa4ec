@@ -1,0 +1,13 @@
+package lecture;
+
+import java.util.Scanner;
+
+public class Cal {
+	public static void main(String[] args) {
+		Scanner buckey=new Scanner(System.in);
+		double fnum,snum,answer;
+		System.out.println("Enter first num: ");
+	}
+	
+			
+}
